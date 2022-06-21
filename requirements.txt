@@ -13,7 +13,7 @@ latexcodec==1.0.5
 MarkupSafe==1.0
 matplotlib==2.1.0
 networkx==2.0
-numpy==1.13.3
+numpy==1.22.0
 oset==0.1.3
 pluggy==0.6.0
 py==1.5.2
